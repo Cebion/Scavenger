@@ -124,7 +124,7 @@ int cwin;
 int seed=1;
 int figseg;
 uchar colormap[768];
-int mousex,mousey;
+int mousex = 0, mousey = 0;
 int numenemies;
 int numgold;
 int cframe;
